@@ -4,7 +4,7 @@ This is an official implementation of the paper "[Weakly Supervised Adversarial 
 
 We plan to finish ```readme.md``` in **December 2019**. 
 
-Some Essential Information:
+## Some Essential Information:
 
 - Pytorch 0.2
  - This work is completed in **October 2017**. We have no plan to upgrade it to a newer Pytorch version because of limited time.
@@ -12,7 +12,7 @@ Some Essential Information:
 - TensorboardX
 
 
-Simple Instruction:
+## Simple Instruction:
 1. Download GTA 5, SYN, Cityscapes datasets.
 2. Generate object-level labels:
  - Detect the foreground objects using [DSOD](https://github.com/szq0214/DSOD).
