@@ -31,7 +31,7 @@ We plan to finish ```readme.md``` in **December 2019**.
 ## Citing
 If you use the code, please cite the following paper:
 ```
-@ARTICLE{gao2019weakly, 
+@ARTICLE{wang2019weakly, 
 author={Wang, Qi and Gao, Junyu and Li, Xuelong}, 
 journal={IEEE Transactions on Image Processing}, 
 title={Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes}, 
