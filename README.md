@@ -26,4 +26,18 @@ We plan to finish ```readme.md``` in **December 2019**.
    ...
    ```
 - 3 Make ROI pooling.
-- 4 Train model: ```python run_WASAL.py```.
+- 4 Train model: ```python run_WSAL.py```.
+
+## Citing
+If you use the code, please cite the following paper:
+```
+@ARTICLE{gao2019weakly, 
+author={Wang, Qi and Gao, Junyu and Li, Xuelong}, 
+journal={IEEE Transactions on Image Processing}, 
+title={Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes}, 
+year={2019}, 
+volume={28}, 
+number={9}, 
+pages={4376-4386}, 
+}
+```
