@@ -31,13 +31,13 @@ We plan to finish ```readme.md``` in **December 2019**.
 ## Citing
 If you use the code, please cite the following paper:
 ```
-@ARTICLE{wang2019weakly, 
-author={Wang, Qi and Gao, Junyu and Li, Xuelong}, 
-journal={IEEE Transactions on Image Processing}, 
-title={Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes}, 
-year={2019}, 
-volume={28}, 
-number={9}, 
-pages={4376-4386}, 
+@article{gao2019scar,
+  title={SCAR: Spatial-/channel-wise attention regression networks for crowd counting},
+  author={Gao, Junyu and Wang, Qi and Yuan, Yuan},
+  journal={Neurocomputing},
+  volume={363},
+  pages={1--8},
+  year={2019},
+  publisher={Elsevier}
 }
 ```
